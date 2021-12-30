@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-
+**smitgabani/smitgabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'am Smit, a Computer Science student intrested in web development and application development. I'm currently working on small projects with skills I am learning.
+
+### 🔭 Some things I've worked on ...
+- Library, a small library management system that is designed to lets users lend books.
+-
+
+### 📫 Find me here: ...
+- [LinkedIn](https://linkedin.com/in/smit-gabani/)
+
+[![Visits Badge](https://badges.pufler.dev/visits/smitgabani/smitgabani)](https://badges.pufler.dev)
