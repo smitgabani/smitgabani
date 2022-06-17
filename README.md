@@ -10,7 +10,7 @@ I'm Smit, a Computer Science student intrested in web development and applicatio
 [ [github repo](https://github.com/smitgabani/sorting_visualizer) ]
 
 ### 📫 Find me here: ...
-Personal Website: <a href = "https://smitgabani.github.com">smitgabani.github.io</a><br/>
+Personal Website: <a href = "https://smitgabani.github.io/">smitgabani.github.io</a><br/>
 Linkedin: [linkedin/smit-gabani](https://linkedin.com/in/smit-gabani/)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=smitgabani&style=for-the-badge)
