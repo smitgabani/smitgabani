@@ -1,27 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**smitgabani/smitgabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'am Smit, a Computer Science student intrested in web development and application development. I'm currently working on small projects with skills I am learning.
+I'm Smit, a Computer Science student intrested in web development and application development. I'm currently working on small projects with skills I am learning.
 
 ### 🔭 Some things I've worked on ...
-- Library, a small library management system that is designed to lets users lend books.
--
+- myLibrary, a small library management system that is designed to lets users lend books.
+
+- Sorting Visualizer, a sorting algorithms visualizer tool made with react.<br>
+[ [live link](https://smitgabani-sorting-visualizer.netlify.app/) ]
+[ [github repo](https://github.com/smitgabani/sorting_visualizer) ]
 
 ### 📫 Find me here: ...
-- [LinkedIn](https://linkedin.com/in/smit-gabani/)
+Personal Website: <a href = "https://smitgabani.github.com">smitgabani.github.io</a><br/>
+Linkedin: [linkedin/smit-gabani](https://linkedin.com/in/smit-gabani/)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=smitgabani&style=for-the-badge)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitgabani&layout=compact)
