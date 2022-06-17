@@ -24,5 +24,4 @@ I'am Smit, a Computer Science student intrested in web development and applicati
 ### 📫 Find me here: ...
 - [LinkedIn](https://linkedin.com/in/smit-gabani/)
 
-![Visits Badge](https://badges.pufler.dev/repos/smitgabani)(https://badges.pufler.dev)
-![GitHub Views](https://komarev.com/ghpvc/?username=smitgabani&style=flat-square)
+![GitHub Views](https://komarev.com/ghpvc/?username=smitgabani&style=for-the-badge)
