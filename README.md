@@ -15,7 +15,8 @@ Linkedin: [linkedin/smit-gabani](https://linkedin.com/in/smit-gabani/)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=smitgabani&style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitgabani&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitgabani&layout=compact) <br>
+<img src="https://github-readme-stats.vercel.app/api?username=smitgabani&&show_icons=true&count_private=true"/>
 
 <p align="center">
   <!-- Monospace Font -->
@@ -23,6 +24,6 @@ Linkedin: [linkedin/smit-gabani](https://linkedin.com/in/smit-gabani/)
     <a href="https://twitter.com/smitgabani7">twitter</a> .
     <a href="https://stackoverflow.com/users/19144656/smit-gabani">stackoverflow</a> .
     <a href="https://dev.to/smitgabani">blog</a> .
-    <a href="https://www.linkedin.com/in/smit-gabani/">linkedin</a> .
+    <a href="https://www.linkedin.com/in/smit-gabani/">linkedin</a> |  .
   </samp>
 </p>
